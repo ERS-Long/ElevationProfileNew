@@ -8,7 +8,6 @@ CMV Widget based on @goriliukasbuxton wonderful approach
                 path: 'widgets/ElevationProfile',
                 canFloat: true,
                 title: '<i class="icon-large icon-road"></i>&nbsp;&nbsp;Elevation Profile',
-                category : 'util',
                 open: false,
                 position: 25,
                 options: {
