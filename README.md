@@ -1,5 +1,10 @@
 # ElevationProfileNew
-CMV Widget based on @goriliukasbuxton wonderful approach
+CMV Widget based on @goriliukasbuxton's wonderful approach
+just added some minor features
+
+1. comnbined the setting to one
+2. added the map click logic for detach or attach the default map click event
+3. Open the buttom pane when use clicks the draw button
 
             elevation: {
                 include: true,
