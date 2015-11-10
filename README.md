@@ -1,5 +1,5 @@
 # ElevationProfileNew
-CMV Widget based on @goriliukasbuxton's wonderful approach
+CMV Widget based on <a href="https://github.com/goriliukasbuxton/ElevationProfile2">@goriliukasbuxton's </a> wonderful approach 
 just added some minor features
 
 1. comnbined the setting to one
